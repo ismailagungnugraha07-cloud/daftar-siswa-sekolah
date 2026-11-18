@@ -1,0 +1,21 @@
+{
+  "name": "smart-school-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikasi Android Smart School (Capacitor) - terhubung ke backend yang sama dengan versi web",
+  "scripts": {
+    "build:www": "node scripts/build-www.js",
+    "android:init": "npm run build:www && npx cap add android && node scripts/patch-android.js",
+    "sync": "npm run build:www && npx cap sync android",
+    "apk": "node scripts/build-apk.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/filesystem": "^7.0.0",
+    "@capacitor/share": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

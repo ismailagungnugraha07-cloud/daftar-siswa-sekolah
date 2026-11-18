@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#173b68">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" href="/icons/icon-192.png">
+    <title>Smart School - Sistem Informasi Sekolah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="brand">
+            <div class="logo">S</div>
+            <span>SMART SCHOOL</span>
+        </div>
+        <a href="login.html" class="nav-login">Masuk</a>
+    </header>
+
+    <main class="hero">
+        <div class="hero-content">
+            <span class="tag">SISTEM INFORMASI SEKOLAH</span>
+
+            <h1>Belajar, Berkarya,<br>
+                dan Berkembang<br>
+                Bersama.</h1>
+
+            <p>
+                Platform digital sekolah untuk mengelola
+                data siswa, guru, kelas, serta pengumpulan
+                tugas dalam satu sistem terintegrasi.
+            </p>
+
+            <a href="login.html" class="btn-primary">
+                Mulai Sekarang →
+            </a>
+        </div>
+
+        <div class="hero-image">
+            <div class="illustration">
+                <div class="book">📚</div>
+                <div class="cap">🎓</div>
+                <div class="text-image">
+                    <h2>Smart School</h2>
+                    <p>Education Management System</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        © 2026 Smart School. Sistem Informasi Sekolah.
+    </footer>
+
+<script>
+        if ("serviceWorker" in navigator && window.isSecureContext) {
+            window.addEventListener("load", () => navigator.serviceWorker.register("/service-worker.js"));
+        }
+    </script>
+</body>
+</html>

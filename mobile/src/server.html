@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#173b68">
+    <title>Alamat Server - Smart School</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/mobile-bridge.js"></script>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-card">
+            <div class="login-logo">S</div>
+            <h1>Hubungkan Server</h1>
+            <p class="login-description">
+                Masukkan alamat server Smart School (komputer sekolah yang menjalankan backend).
+                HP harus satu Wi-Fi dengan komputer tersebut.
+            </p>
+
+            <form id="serverForm">
+                <label>Alamat server</label>
+                <input type="text" id="alamat" placeholder="contoh: 192.168.1.10:3000"
+                       inputmode="url" autocapitalize="none" autocorrect="off" spellcheck="false" required>
+
+                <button type="submit" id="btn">Hubungkan</button>
+                <p id="pesan" style="margin-top:12px;font-size:14px"></p>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        (function () {
+            var input = document.getElementById("alamat");
+            var pesan = document.getElementById("pesan");
+            var btn = document.getElementById("btn");
+            var tersimpan = window.SmartSchoolMobile.getServer();
+
+            if (tersimpan) input.value = tersimpan;
+
+            function normalisasi(teks) {
+                var u = teks.trim().replace(/\/+$/, "");
+                if (!/^https?:\/\//i.test(u)) u = "http://" + u;
+                // Alamat tanpa port (mis. 192.168.1.10) -> pakai port bawaan server, 3000
+                if (/^http:\/\/[^/:]+$/i.test(u) && !/^http:\/\/localhost$/i.test(u)) u += ":3000";
+                return u;
+            }
+
+            function tampil(teks, ok) {
+                pesan.textContent = teks;
+                pesan.style.color = ok ? "#15803d" : "#b91c1c";
+            }
+
+            document.getElementById("serverForm").addEventListener("submit", function (e) {
+                e.preventDefault();
+                var url = normalisasi(input.value);
+                var batas = new AbortController();
+                var timer = setTimeout(function () { batas.abort(); }, 7000);
+
+                btn.disabled = true;
+                tampil("Mencoba terhubung ke " + url + " ...", true);
+
+                fetch(url + "/api/ping", { signal: batas.signal })
+                    .then(function (r) { return r.json(); })
+                    .then(function (data) {
+                        if (!data || !data.status) throw new Error("bukan server Smart School");
+                        window.SmartSchoolMobile.setServer(url);
+                        tampil("Terhubung!", true);
+                        location.replace("/login.html");
+                    })
+                    .catch(function () {
+                        tampil("Tidak bisa terhubung. Pastikan backend menyala, HP satu Wi-Fi dengan komputer, " +
+                               "dan alamat/port benar. Server yang belum diperbarui juga perlu dijalankan ulang.", false);
+                    })
+                    .then(function () { clearTimeout(timer); btn.disabled = false; });
+            });
+        })();
+    </script>
+</body>
+</html>

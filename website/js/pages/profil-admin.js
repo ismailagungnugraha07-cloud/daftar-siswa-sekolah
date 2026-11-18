@@ -1,0 +1,1 @@
+initProfil("admin");

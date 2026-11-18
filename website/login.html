@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#173b68">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" href="/icons/icon-192.png">
+    <title>Login - Smart School</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="login-container">
+
+        <div class="login-card">
+
+            <div class="login-logo">S</div>
+
+            <h1>Selamat Datang</h1>
+
+            <p class="login-description">
+                Silakan masuk ke akun Smart School Anda.
+            </p>
+
+            <form id="loginForm">
+
+                <label>Username</label>
+                <input
+                    type="text"
+                    id="username"
+                    placeholder="Masukkan username"
+                    autocomplete="username"
+                    required
+                >
+
+                <label>Password</label>
+                <input
+                    type="password"
+                    id="password"
+                    placeholder="Masukkan password"
+                    autocomplete="current-password"
+                    required
+                >
+
+                <button type="submit" id="loginButton">
+                    Masuk ke Sistem
+                </button>
+
+                <p id="message"></p>
+
+            </form>
+
+            <a href="index.html" class="back-link">
+                ← Kembali ke halaman utama
+            </a>
+
+        </div>
+
+    </div>
+
+    <script src="js/login.js"></script>
+<script>
+        if ("serviceWorker" in navigator && window.isSecureContext) {
+            window.addEventListener("load", () => navigator.serviceWorker.register("/service-worker.js"));
+        }
+    </script>
+</body>
+</html>

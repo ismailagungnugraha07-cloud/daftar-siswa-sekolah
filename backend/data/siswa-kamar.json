@@ -1,0 +1,1727 @@
+{
+ "sumber": "DAFTAR_PEMBAGIAN_KAMAR_HOTEL.xlsx",
+ "siswa": [
+  {
+   "nama": "ABDURAHMAN SHIDIQ RIADI",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200"
+  },
+  {
+   "nama": "GIBRALTAR ZAIDADI FARABI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "211"
+  },
+  {
+   "nama": "ABDURRAHMAN AZKA RAMADAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200"
+  },
+  {
+   "nama": "HAFISH ROSO WICAKSONO",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "211"
+  },
+  {
+   "nama": "ABYAN NUR FAUZAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200"
+  },
+  {
+   "nama": "IKHSAN RAKA RADITYA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "211"
+  },
+  {
+   "nama": "ADNAN LUTHFI ADLIYAWAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200"
+  },
+  {
+   "nama": "KEVIN FERNANDA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "211"
+  },
+  {
+   "nama": "ADRIAN TEO HUTAMA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200A"
+  },
+  {
+   "nama": "LUCKY FERDINAN SAPUTRA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "212"
+  },
+  {
+   "nama": "AMMAR FAKHRI FATHONI",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200A"
+  },
+  {
+   "nama": "MUHAMMAD AGUNG WIBOWO",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "212"
+  },
+  {
+   "nama": "BAGAS DWI PANGESTU",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200A"
+  },
+  {
+   "nama": "MUHAMMAD ARKAN RIFAT",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "212"
+  },
+  {
+   "nama": "BAYU AJI PRAMUDITYA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "200A"
+  },
+  {
+   "nama": "MUHAMMAD FAISAL INDRAMUKTI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "212"
+  },
+  {
+   "nama": "DAMMAR ADYATMOKO",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "201"
+  },
+  {
+   "nama": "MUHAMMAD HABIB ALIFIAN F.",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "214"
+  },
+  {
+   "nama": "DANESWARA ALVITO PUTRA D.",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "201"
+  },
+  {
+   "nama": "RAMADANI SAPUTRA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "214"
+  },
+  {
+   "nama": "FADHLAN ADI PRATAMA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "201"
+  },
+  {
+   "nama": "RAMADHANI PUTRA PAMUNGKAS",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "214"
+  },
+  {
+   "nama": "FADLAN DHIYA ULHAQ PRATAMA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "201"
+  },
+  {
+   "nama": "RAUFA DZIKRI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "214"
+  },
+  {
+   "nama": "FANDY EKA ANDRIAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "202"
+  },
+  {
+   "nama": "REFKHA ALDISSA RAMADHAN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "215"
+  },
+  {
+   "nama": "HABIBI NAUFAL SAKTI",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "202"
+  },
+  {
+   "nama": "REZA ALFIANSAH",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "215"
+  },
+  {
+   "nama": "HAFIDZ FAKHRUDIN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "202"
+  },
+  {
+   "nama": "RICO RAHMAT RAMADHAN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "215"
+  },
+  {
+   "nama": "KENNARD RIZKY SAPUTRA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "202"
+  },
+  {
+   "nama": "SIDIQ NURWAKHID ABBDILAH",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "215"
+  },
+  {
+   "nama": "LOVELY EKA SYAHPUTRA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "203"
+  },
+  {
+   "nama": "TEGUH WICAKSONO",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "216"
+  },
+  {
+   "nama": "MUHAMAD NUR FAUZI",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "203"
+  },
+  {
+   "nama": "VICKY NA’IL FATHONI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "216"
+  },
+  {
+   "nama": "NANDA ADIWITYA MAHARDIKA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "203"
+  },
+  {
+   "nama": "WAHYU NUGROHO",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "216"
+  },
+  {
+   "nama": "OKY DONI PRATAMA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "203"
+  },
+  {
+   "nama": "YANUAR RIFAN FAUZI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "216"
+  },
+  {
+   "nama": "RAFA ARIEL RAMADAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "204"
+  },
+  {
+   "nama": "YOHANES ADVEN DIAN WIGUNA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "217"
+  },
+  {
+   "nama": "RAFKA DESTA AINURYAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "204"
+  },
+  {
+   "nama": "ADIL NANDITTAMA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "217"
+  },
+  {
+   "nama": "RAHMAD HERMAWAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "204"
+  },
+  {
+   "nama": "ANDRIAN DAVIT SAPUTRA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "217"
+  },
+  {
+   "nama": "RAHMAD RIFA'I",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "204"
+  },
+  {
+   "nama": "ANOM DAHAS WICAKSONO",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "217"
+  },
+  {
+   "nama": "RAMA REVIANO",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "205"
+  },
+  {
+   "nama": "APRIYANTO DIMAS K",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "218"
+  },
+  {
+   "nama": "SAHRUL FAHRUDIN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "205"
+  },
+  {
+   "nama": "ARDI SUMARDANA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "218"
+  },
+  {
+   "nama": "SHALIH AL FATHIN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "205"
+  },
+  {
+   "nama": "ARIF DARMAWAN",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "218"
+  },
+  {
+   "nama": "UMAR GHOZY HAMIZAN",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "205"
+  },
+  {
+   "nama": "ARLENNIO WILDAN PRAMANA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "218"
+  },
+  {
+   "nama": "WAHYU NUGROHO",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "206"
+  },
+  {
+   "nama": "ATNANDA FIRDAN GAUTAMA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "219"
+  },
+  {
+   "nama": "YUDI APRIYANO",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "206"
+  },
+  {
+   "nama": "BAYU AJI PAMUNGKAS",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "219"
+  },
+  {
+   "nama": "ZENNA AJI SAPUTRA",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "206"
+  },
+  {
+   "nama": "BERRY AJI KUNCORO",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "219"
+  },
+  {
+   "nama": "ZIDAN AL KAFI",
+   "kelas": "XI TKR A",
+   "jk": "L",
+   "kamar": "206"
+  },
+  {
+   "nama": "DHIA BANYU ARKAREGA R.",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "219"
+  },
+  {
+   "nama": "RAHMAT",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "207"
+  },
+  {
+   "nama": "DIO PUTRA PAMUNGKAS",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "220"
+  },
+  {
+   "nama": "AKKA PRASETYO JATI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "207"
+  },
+  {
+   "nama": "DWI ANUGRAHA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "220"
+  },
+  {
+   "nama": "ALFIAN ANANTA SETIAWAN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "207"
+  },
+  {
+   "nama": "FAZA ZIDAN AL MUSTHAFA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "220"
+  },
+  {
+   "nama": "ALFITO EDY CAHYO SAPUTRO",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "207"
+  },
+  {
+   "nama": "FERDIKA YUSUF MAULANA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "220"
+  },
+  {
+   "nama": "ALGHANIRO AFILEPTA PUTRA SANGAJI",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "208"
+  },
+  {
+   "nama": "FERDIAN RIDHO RAMMADANI",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "221"
+  },
+  {
+   "nama": "AMADEUS BONVILIO CLAY",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "208"
+  },
+  {
+   "nama": "GILANG FEBIANSYAH",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "221"
+  },
+  {
+   "nama": "ANANDA BRILLIANT SAPUTRA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "208"
+  },
+  {
+   "nama": "GALANG ANUGRAHANANTO",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "221"
+  },
+  {
+   "nama": "ANDREA EKA FAHRUDIN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "208"
+  },
+  {
+   "nama": "HANDITYA BARA REYLINGGA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "221"
+  },
+  {
+   "nama": "BAYU ARIFIN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "209"
+  },
+  {
+   "nama": "HAPPY ATMAJAYA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "222"
+  },
+  {
+   "nama": "BAYU INDRA SETYAWAN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "209"
+  },
+  {
+   "nama": "IKHWAN DWI SETIAWAN",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "222"
+  },
+  {
+   "nama": "DANISWARA TIRTA ARIANTAMA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "209"
+  },
+  {
+   "nama": "JOVAN GILANG RAMADHAN",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "222"
+  },
+  {
+   "nama": "DHEVANO ABISENDHA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "209"
+  },
+  {
+   "nama": "KRISBRIYANTORO",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "222"
+  },
+  {
+   "nama": "FAQIH DAFA WADHUKA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "210"
+  },
+  {
+   "nama": "LUTFI MUHITH",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "223"
+  },
+  {
+   "nama": "FARDHAN KURNIAWAN",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "210"
+  },
+  {
+   "nama": "MUHAMMAD IKHSAN AL GHIFARY",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "223"
+  },
+  {
+   "nama": "FATHAN DAFA PUTRA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "210"
+  },
+  {
+   "nama": "MUHAMMAD RAFFA RAMADHAN",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "223"
+  },
+  {
+   "nama": "FAVIAN GANI SAPUTRA",
+   "kelas": "XI TKR B",
+   "jk": "L",
+   "kamar": "210"
+  },
+  {
+   "nama": "MUHAMMAD RAMA MUNATA P.",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "223"
+  },
+  {
+   "nama": "MUHAMMAD RAZAK AZIZI",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "224"
+  },
+  {
+   "nama": "ALVAN HASAN ALKAFI",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "302"
+  },
+  {
+   "nama": "RIZAL HANAFI",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "224"
+  },
+  {
+   "nama": "ALVIAN TITO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "302"
+  },
+  {
+   "nama": "RIZQI FADILAH PRATAMA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "224"
+  },
+  {
+   "nama": "ALVIN MARDIKA MUHAMAD RISKY",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "302"
+  },
+  {
+   "nama": "RUDI BAYU PRATAMA",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "224"
+  },
+  {
+   "nama": "ALVINO FIREZKY HAMERALDY",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "302"
+  },
+  {
+   "nama": "SOFYAN NUR IKHSAN",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "225"
+  },
+  {
+   "nama": "ANANG BAYU SAPUTRA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "303"
+  },
+  {
+   "nama": "TRI MARYANTO",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "225"
+  },
+  {
+   "nama": "ANDHIKA SUBKAN ALKAFI",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "303"
+  },
+  {
+   "nama": "MUHAMMAD RIDHO MUZAKI",
+   "kelas": "XI TKR C",
+   "jk": "L",
+   "kamar": "225"
+  },
+  {
+   "nama": "ARDIAN RADIANTO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "303"
+  },
+  {
+   "nama": "AFREZZA KEVIN LAUDZAI PRIYANTO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "225"
+  },
+  {
+   "nama": "ARGA DWI SANJAYA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "303"
+  },
+  {
+   "nama": "ARI FANDOYO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "226"
+  },
+  {
+   "nama": "BAMBANG NURHIDAYAT",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "304"
+  },
+  {
+   "nama": "AL BARAKA ARFIANO RAMADHAN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "226"
+  },
+  {
+   "nama": "DAVIN CAHYO SAPUTRO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "304"
+  },
+  {
+   "nama": "ALFINO RIZKI NUGROHO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "226"
+  },
+  {
+   "nama": "DAVID SETIAWAN",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "304"
+  },
+  {
+   "nama": "ALIEF AHMAD MAULANA ICHWAN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "226"
+  },
+  {
+   "nama": "DIMAS JOVIANTO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "304"
+  },
+  {
+   "nama": "ALIF RIZKI NURDIYANSAH",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "227"
+  },
+  {
+   "nama": "FAIZ NAUFAL PRATAMA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "305"
+  },
+  {
+   "nama": "ALPIN MAULANA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "227"
+  },
+  {
+   "nama": "GALHES DWI WIJANADKO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "305"
+  },
+  {
+   "nama": "ARIF KURNIAWAN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "227"
+  },
+  {
+   "nama": "IHSANUDDIN PURWANTO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "305"
+  },
+  {
+   "nama": "BAGUS ADITYA PRASETYA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "227"
+  },
+  {
+   "nama": "IKHSAN ARI NUGROHO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "305"
+  },
+  {
+   "nama": "DAFFA ARKA DHAWI PRADIPTA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "229"
+  },
+  {
+   "nama": "MUHAMMAD FABIAN FADILAH AKBAR",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "306"
+  },
+  {
+   "nama": "DANIS EKY PRATAMA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "229"
+  },
+  {
+   "nama": "MUHAMMAD FAHMI NUR SIDIQ",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "306"
+  },
+  {
+   "nama": "DANANG JOKO SAPUTRO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "229"
+  },
+  {
+   "nama": "MUHAMMAD FAIS PUTRA YULIANTO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "306"
+  },
+  {
+   "nama": "DION TAUFIQ NUGROHO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "229"
+  },
+  {
+   "nama": "MUHAMMAD FAUZAN",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "306"
+  },
+  {
+   "nama": "FACHRI ADITYA PRADANA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "230"
+  },
+  {
+   "nama": "MUHAMMAD NAUFAL RAAFI RAMADHAN",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "307"
+  },
+  {
+   "nama": "FADIAN SAPUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "230"
+  },
+  {
+   "nama": "MUHAMMAD RIDHO ALFIANSYAH",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "307"
+  },
+  {
+   "nama": "GABRIEL ARTHAYUDA ANDAYANA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "230"
+  },
+  {
+   "nama": "NOVA SALIM SAPUTRA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "307"
+  },
+  {
+   "nama": "HAFIZH NUR KHOLISH AL FATH",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "230"
+  },
+  {
+   "nama": "NOVAN ARDIANSYAH PUTRA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "307"
+  },
+  {
+   "nama": "IBNU EVAN BUDIANTANA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "231"
+  },
+  {
+   "nama": "RAYHAN GHANI MUSYAFA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "308"
+  },
+  {
+   "nama": "LATIF ALDI FARIYANTO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "231"
+  },
+  {
+   "nama": "RAYHAN ZAIN AL BARRA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "308"
+  },
+  {
+   "nama": "MAHMUDIN ALI YUSUF",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "231"
+  },
+  {
+   "nama": "REZA MUHAMMAD FACHRY",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "308"
+  },
+  {
+   "nama": "MUHAMMAD AHNAF EKA PUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "231"
+  },
+  {
+   "nama": "RIDHO ADAM SHAFARI",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "308"
+  },
+  {
+   "nama": "MUHAMMAD ARDYAN SAPUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "232"
+  },
+  {
+   "nama": "WAHYU AJI DWI HARDIKA",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "309"
+  },
+  {
+   "nama": "MUHAMMAD ARIEF WICAKSONO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "232"
+  },
+  {
+   "nama": "YUDISTIRA PUTRA SUROSO",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "309"
+  },
+  {
+   "nama": "MUHAMMAD ERFAN ALVARO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "232"
+  },
+  {
+   "nama": "ARROYYAN AKHMAD DZU FAUZIN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309"
+  },
+  {
+   "nama": "NADZRIEL ADITYA SAPUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "232"
+  },
+  {
+   "nama": "ARYA EGA PRATAMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309"
+  },
+  {
+   "nama": "NANDA NOVA ADI SAPUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "233"
+  },
+  {
+   "nama": "ASSIFA FITROH RAHMADHANI",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309A"
+  },
+  {
+   "nama": "OKTAVIJANANTO ABDUL MUTAQIIN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "233"
+  },
+  {
+   "nama": "BAYU KHRISNA MUKTI",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309A"
+  },
+  {
+   "nama": "RAFA DWI RAMADHANI",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "233"
+  },
+  {
+   "nama": "DIMAS SETYO",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309A"
+  },
+  {
+   "nama": "RAFAEL DIMAS ANDRIAN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "233"
+  },
+  {
+   "nama": "EL VERRO ARKANJAYA FERYAN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "309A"
+  },
+  {
+   "nama": "RAFI AESAR AL RAZZAQ",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300"
+  },
+  {
+   "nama": "FIQRI ERWINANTO",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "310"
+  },
+  {
+   "nama": "RAIHAN FIRDAUS",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300"
+  },
+  {
+   "nama": "GALIH BIMA DWI ATMAJA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "310"
+  },
+  {
+   "nama": "RAMADHAN BIMA PRATAMA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300"
+  },
+  {
+   "nama": "ILYAS RIDHO KUSUMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "310"
+  },
+  {
+   "nama": "RASYA NUGRAHA PUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300"
+  },
+  {
+   "nama": "IQBAAL AFLAH ARRASYID",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "310"
+  },
+  {
+   "nama": "RIZKI WAHYU TEGAR SAPUTRA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300A"
+  },
+  {
+   "nama": "MUHAMMAD RIDHO KURNIAWAN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "316"
+  },
+  {
+   "nama": "SATRIA BAGAS PRATAMA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300A"
+  },
+  {
+   "nama": "MUHAMMAD RISTAN MUARIFIN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "316"
+  },
+  {
+   "nama": "TEGUH HARYO PANUNTUN",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300A"
+  },
+  {
+   "nama": "MUHAMMAD RIZQI NAFAGAN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "316"
+  },
+  {
+   "nama": "VIRMAN SYARIF PRADHIPTA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "300A"
+  },
+  {
+   "nama": "MUHAMMAD SEPTIAN RAMADHANI",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "316"
+  },
+  {
+   "nama": "YONGKI DWI WIBOWO",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "301"
+  },
+  {
+   "nama": "MUHAMMAD VICQY ARFANDI",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "317"
+  },
+  {
+   "nama": "ZELIG UTAMA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "301"
+  },
+  {
+   "nama": "NURFAJRUL AGUNG PRATAMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "317"
+  },
+  {
+   "nama": "DIMAS RAYHAN NIRWASITA",
+   "kelas": "XI TSM A",
+   "jk": "L",
+   "kamar": "301"
+  },
+  {
+   "nama": "OKTAVIAN DANI SAPUTRA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "317"
+  },
+  {
+   "nama": "AFRI MANSYAH",
+   "kelas": "XI TSM B",
+   "jk": "L",
+   "kamar": "301"
+  },
+  {
+   "nama": "REZA NUR ILHAM",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "317"
+  },
+  {
+   "nama": "RIDHO FAJAR DIAN PRATAMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "318"
+  },
+  {
+   "nama": "FIZI NOVENDHIKA PRADITYA",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "335"
+  },
+  {
+   "nama": "RIDHO SATRIA RAMADHAN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "318"
+  },
+  {
+   "nama": "GALIH THORIQ PRAKOSO",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "335"
+  },
+  {
+   "nama": "RIFA FAUZAN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "318"
+  },
+  {
+   "nama": "IBRAHIM MOFIQ FIKRIANTO",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "335"
+  },
+  {
+   "nama": "RIO WAHYU SAPUTRA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "318"
+  },
+  {
+   "nama": "JIBRAN NOOR ROBHY",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "335"
+  },
+  {
+   "nama": "RIZKY ADITYA IKHSAN PRATAMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "319"
+  },
+  {
+   "nama": "MUHAMMAD REVALINO JAYA P.",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "337"
+  },
+  {
+   "nama": "RIZKI SUHADA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "319"
+  },
+  {
+   "nama": "MUHAMMAD REVAN PANDU S.",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "337"
+  },
+  {
+   "nama": "SULTHON AKBAR JANGKADAUSAT",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "319"
+  },
+  {
+   "nama": "MUH RIZQY ADRIANSYAH PUTRA P.",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "337"
+  },
+  {
+   "nama": "VINDI SETIAWAN MUTTAQIN",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "319"
+  },
+  {
+   "nama": "NOVAL SURYA PRATAMA",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "337"
+  },
+  {
+   "nama": "YOGA TRI ANGGITA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "320"
+  },
+  {
+   "nama": "OMAR AL RAFFI JAELANI",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "338"
+  },
+  {
+   "nama": "ZANU ARYANTO",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "320"
+  },
+  {
+   "nama": "RAKA ADITYA NUGRAHA",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "338"
+  },
+  {
+   "nama": "ZHAKI HENDY PRATAMA",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "320"
+  },
+  {
+   "nama": "TIO RIFAI ANKHALYLA",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "338"
+  },
+  {
+   "nama": "RIO FAJAR RIZANO",
+   "kelas": "XI TSM C",
+   "jk": "L",
+   "kamar": "320"
+  },
+  {
+   "nama": "ADRIAN YUSUF PRATAMA",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "321"
+  },
+  {
+   "nama": "AHFIANDI HIDAYAT RAMADAN",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "321"
+  },
+  {
+   "nama": "AHMAD HENDRI KURNIAWAN",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "321"
+  },
+  {
+   "nama": "DAFA RUDIYANSYAH",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "321"
+  },
+  {
+   "nama": "DANU YOGA PRATAMA",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "322"
+  },
+  {
+   "nama": "FINNEGAN ASLAM FAUZAN NABIL",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "322"
+  },
+  {
+   "nama": "GALANG BHINNEKA WINARNO",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "322"
+  },
+  {
+   "nama": "HANDOKO SETO",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "322"
+  },
+  {
+   "nama": "M. ALFIN FEBIANO AL FAIRUS",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "323"
+  },
+  {
+   "nama": "RAFFI AKBAR ARYA PUTRA",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "323"
+  },
+  {
+   "nama": "REGINALDI AZARYA NURDYA A.",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "323"
+  },
+  {
+   "nama": "RISKY PRASETYA PUTRA",
+   "kelas": "XI DPIB",
+   "jk": "L",
+   "kamar": "323"
+  },
+  {
+   "nama": "ALFENDISTA ISMAIL",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "324"
+  },
+  {
+   "nama": "ALIFFIO NUGRAHA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "324"
+  },
+  {
+   "nama": "ANAEL MUHAMMAD FAIZ",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "324"
+  },
+  {
+   "nama": "ANANTA SENTOSA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "324"
+  },
+  {
+   "nama": "ARDAN RYAN PRASETYO",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "325"
+  },
+  {
+   "nama": "ARSA JANITRA PUTRA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "325"
+  },
+  {
+   "nama": "AZRIEL SYAWAL FAHREZY",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "325"
+  },
+  {
+   "nama": "BAGAS RIZKY SANTOSO",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "325"
+  },
+  {
+   "nama": "BIMA SAPUTRA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "330"
+  },
+  {
+   "nama": "ERVIN MAULANA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "330"
+  },
+  {
+   "nama": "FERDIYANTO WAHYU ASSIDIQI",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "330"
+  },
+  {
+   "nama": "HAIDAR ALFARIZI",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "330"
+  },
+  {
+   "nama": "ILYA WAFIQ SAPUTRA",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "331"
+  },
+  {
+   "nama": "ISMAIL AGUNG NUGROHO",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "331"
+  },
+  {
+   "nama": "MIFTAKHUL ALI FATAH",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "331"
+  },
+  {
+   "nama": "MUHAMMAD DAVIN RIZKY R.",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "331"
+  },
+  {
+   "nama": "MUHAMMAD FATHAN AL FARASI",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "332"
+  },
+  {
+   "nama": "MUHAMMAD DZULFIKRI HARUM M.",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "332"
+  },
+  {
+   "nama": "OVVAN REZY BRAHMANTYO",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "332"
+  },
+  {
+   "nama": "QHOIRUL HIDAYAT",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "332"
+  },
+  {
+   "nama": "R.M IRSYA RASYID RAMADAN",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "334"
+  },
+  {
+   "nama": "RAHMAT RIFAI",
+   "kelas": "XI RPL",
+   "jk": "L",
+   "kamar": "334"
+  },
+  {
+   "nama": "ABID AZAM MAULANA",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "334"
+  },
+  {
+   "nama": "DIKA PUTRA HANDOKO",
+   "kelas": "XI ANIMASI",
+   "jk": "L",
+   "kamar": "334"
+  },
+  {
+   "nama": "QUINNZA AVENTURA PANDOYO",
+   "kelas": "XI TKR C",
+   "jk": "P",
+   "kamar": "339"
+  },
+  {
+   "nama": "THALITA MUMTAZIA",
+   "kelas": "XI TKR C",
+   "jk": "P",
+   "kamar": "339"
+  },
+  {
+   "nama": "AULIA AYUNINGTYAS",
+   "kelas": "XI TSM B",
+   "jk": "P",
+   "kamar": "339"
+  },
+  {
+   "nama": "LAYLA SAFIRA",
+   "kelas": "XI TSM B",
+   "jk": "P",
+   "kamar": "339"
+  },
+  {
+   "nama": "ALYA MUKHBITA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "403"
+  },
+  {
+   "nama": "ANITA PUTRI NUR ROIHANAH",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "403"
+  },
+  {
+   "nama": "BUNGA CINTA KIRANA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "403"
+  },
+  {
+   "nama": "DIAN RAMADHANI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "403"
+  },
+  {
+   "nama": "DUWI NUR FAIDA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "404"
+  },
+  {
+   "nama": "DWI PUJI LESTARI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "404"
+  },
+  {
+   "nama": "KARIN TRI HASTUTI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "404"
+  },
+  {
+   "nama": "KHUMAIRA ZALFA HEFIZHA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "404"
+  },
+  {
+   "nama": "MANDA PUSPITASARI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "405"
+  },
+  {
+   "nama": "MAYLANI SANTI AULIA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "405"
+  },
+  {
+   "nama": "MEZZA LUNA BILQIS NUGRAHA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "405"
+  },
+  {
+   "nama": "NABILA JULIA PUTRI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "405"
+  },
+  {
+   "nama": "NADILA PUTRI RAHMAWATI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "406"
+  },
+  {
+   "nama": "NUR SAIDAH",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "406"
+  },
+  {
+   "nama": "RIZKA AZARINDA RAYZA PUTRI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "406"
+  },
+  {
+   "nama": "SULISTYA PRASIWI",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "406"
+  },
+  {
+   "nama": "TSAQIFA AL-ZAHIRAH",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "421"
+  },
+  {
+   "nama": "AYUSHA CALLYSTA KHANSA",
+   "kelas": "XI PBS",
+   "jk": "P",
+   "kamar": "421"
+  },
+  {
+   "nama": "ALISYA GADIS ASHINTA",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "421"
+  },
+  {
+   "nama": "ELIVIA DWI MURYANI",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "421"
+  },
+  {
+   "nama": "AULIA LUTFIAANA FAHRUDIN",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "422"
+  },
+  {
+   "nama": "EVRIN FEBRI ARYANI",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "422"
+  },
+  {
+   "nama": "INDAH PUSPITA RAMADANI",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "422"
+  },
+  {
+   "nama": "JAHRA SALSA BILA",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "422"
+  },
+  {
+   "nama": "KEYZA LAUDYA AHADITYAS",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "423"
+  },
+  {
+   "nama": "NOVA AYUDYA AMURWANI",
+   "kelas": "XI RPL",
+   "jk": "P",
+   "kamar": "423"
+  },
+  {
+   "nama": "LENA ALYA TRIKA PUTRI",
+   "kelas": "XI ANIMASI",
+   "jk": "P",
+   "kamar": "423"
+  },
+  {
+   "nama": "RENATA VANYA SANCIA",
+   "kelas": "XI ANIMASI",
+   "jk": "P",
+   "kamar": "423"
+  },
+  {
+   "nama": "ANANDA EKA ARUMNI",
+   "kelas": "XI DPIB",
+   "jk": "P",
+   "kamar": "326"
+  },
+  {
+   "nama": "ATALIA CANDRIKA ADERATNA",
+   "kelas": "XI DPIB",
+   "jk": "P",
+   "kamar": "326"
+  },
+  {
+   "nama": "FIRDA NAYLASUHFA IN TASYA",
+   "kelas": "XI DPIB",
+   "jk": "P",
+   "kamar": "326"
+  },
+  {
+   "nama": "SACHIE QIMORA SHAKIRANA G.",
+   "kelas": "XI DPIB",
+   "jk": "P",
+   "kamar": "326"
+  }
+ ]
+}

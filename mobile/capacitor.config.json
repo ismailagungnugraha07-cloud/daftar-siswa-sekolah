@@ -1,0 +1,11 @@
+{
+  "appId": "id.sekolah.smartschool",
+  "appName": "Smart School",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
